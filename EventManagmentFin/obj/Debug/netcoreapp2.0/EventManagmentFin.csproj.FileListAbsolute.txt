@@ -1,0 +1,12 @@
+/home/muhammadhamza/Study/sem/DATABASE/EventManagmentFin/bin/Debug/netcoreapp2.0/EventManagmentFin.deps.json
+/home/muhammadhamza/Study/sem/DATABASE/EventManagmentFin/bin/Debug/netcoreapp2.0/EventManagmentFin.runtimeconfig.json
+/home/muhammadhamza/Study/sem/DATABASE/EventManagmentFin/bin/Debug/netcoreapp2.0/EventManagmentFin.runtimeconfig.dev.json
+/home/muhammadhamza/Study/sem/DATABASE/EventManagmentFin/bin/Debug/netcoreapp2.0/EventManagmentFin.dll
+/home/muhammadhamza/Study/sem/DATABASE/EventManagmentFin/bin/Debug/netcoreapp2.0/EventManagmentFin.pdb
+/home/muhammadhamza/Study/sem/DATABASE/EventManagmentFin/obj/Debug/netcoreapp2.0/EventManagmentFin.csprojAssemblyReference.cache
+/home/muhammadhamza/Study/sem/DATABASE/EventManagmentFin/obj/Debug/netcoreapp2.0/EventManagmentFin.csproj.CoreCompileInputs.cache
+/home/muhammadhamza/Study/sem/DATABASE/EventManagmentFin/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/home/muhammadhamza/Study/sem/DATABASE/EventManagmentFin/obj/Debug/netcoreapp2.0/EventManagmentFin.AssemblyInfoInputs.cache
+/home/muhammadhamza/Study/sem/DATABASE/EventManagmentFin/obj/Debug/netcoreapp2.0/EventManagmentFin.AssemblyInfo.cs
+/home/muhammadhamza/Study/sem/DATABASE/EventManagmentFin/obj/Debug/netcoreapp2.0/EventManagmentFin.dll
+/home/muhammadhamza/Study/sem/DATABASE/EventManagmentFin/obj/Debug/netcoreapp2.0/EventManagmentFin.pdb
